@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I am passionate about bridging the gap between hardware and software, designing robust embedded and robotic systems, and building intuitive user interfaces.
 
-- 🔭 Currently working on: *Advanced firmware development for IoT devices*
-- 🌱 Currently learning: *Advanced RTOS optimization and custom driver development*
+- 🔭 Currently working on: *Firmware development for IoT devices*
+- 🌱 Currently learning: *RTOS optimization and custom driver development*
 - 💡 Passionate about: *Low-level programming, hardware debugging, and circuit design*
 - 📫 How to reach me: *www.linkedin.com/in/luka-klašnić-57b840380*
 
