@@ -37,7 +37,11 @@ Welcome to my GitHub profile! I am passionate about bridging the gap between har
 ---
 
 ### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lukaklasnic&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukaklasnic&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaklasnic&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+    
+
