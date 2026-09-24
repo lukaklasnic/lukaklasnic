@@ -9,6 +9,11 @@ Welcome to my GitHub profile! I am passionate about bridging the gap between har
 
 ---
 
+### 💼 Working experience
+- **MikroE Embedded Software Inernship  
+
+---
+
 ### 💻 Technical Stack & Skills
 
 #### **Software & Programming**
