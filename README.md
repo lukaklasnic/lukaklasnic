@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Luka, Junior Embedded Systems Engineer
+### Hi there! 👋 I'm Luka, Junior Embedded Engineer
 
 Welcome to my GitHub profile! I am passionate about bridging the gap between hardware and software, designing robust embedded and robotic systems, and building intuitive user interfaces.
 
